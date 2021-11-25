@@ -6,7 +6,6 @@ SRC_DIR=		./sources
 SRC_FILES=		$(SRC_DIR)/ft_strlen.c \
 				$(SRC_DIR)/ft_putchar.c \
 				$(SRC_DIR)/ft_putstr.c \
-				$(SRC_DIR)/ft_putendl.c \
 				$(SRC_DIR)/ft_putnbr.c \
 				$(SRC_DIR)/ft_putnbr_base.c \
 				$(SRC_DIR)/ft_putnbr_base_ptr.c \
